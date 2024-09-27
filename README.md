@@ -13,7 +13,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro</b> (22H2) at least 4vCPUs, 8GB RAM
+- Windows 10 Pro</b> (22H2) at least 2vCPUs, 8GB RAM
 
 <h2>Post-Install Configuration Objectives</h2>
 
